@@ -1,35 +1,35 @@
 <html>
 <head>
-<title>校园美食</title>
+<title>Campus food </title>
 </head>
 <body bgcolor="white" text="black">
 <b>
 <h2>
 <a href="n.html">
-<input type=button value="返回" >
+<input type=button value="return" >
 </a>
 <br>
 <center>
-中国矿业大学徐州本部南湖校区共有3个大型食堂，以第三食堂为例，一楼饭菜粗糙些但量大价格便宜，二楼小商铺入驻菜品精致美味但价格较高。
+There are three large-scale canteens in Nanhu campus of Xuzhou, China University of mining and technology. Taking the third canteen as an example, the food on the first floor is rough but the quantity is large and the price is cheap, and the food on the second floor is exquisite and delicious but the price is high.
 </center>
 </h2>
 </b>
 <p>
 <center>
-<img src="\Users\86151\Desktop\IMG_20191017_182752.jpg"  alt="牛骨面" /width=" 500" height="500">
+<img src="IMG_20191017_182752.jpg"  alt="Ox bone noodles" /width=" 500" height="500">
 </center>
 <br>
 <center>
 <i>
 <h1>
-牛骨面
+Ox bone noodles
 </h1>
 </i>
 </center>
 <p>
 <h1>
 <center>
-怎么样，想不想来尝一尝呢？
+How do you like to have a taste?
 </center>
 </h1>
 
