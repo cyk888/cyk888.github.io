@@ -3,7 +3,7 @@
 <title>Campus landscape</title>
 </head>
 <body bgcolor="PapayaWhip" text="black">
-<a href="n.html">
+<a href="index.html">
 <input type=button value="return" >
 </a>
 <br>

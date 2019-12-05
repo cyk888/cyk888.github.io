@@ -25,7 +25,7 @@ Writting<br>
 Manufacture<p>
 </h2>
 </center>
-<a href="n.html">
+<a href="index.html">
 <input type=button value="return" >
 </a>
 </body>
