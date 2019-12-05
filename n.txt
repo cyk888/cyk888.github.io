@@ -1,39 +1,39 @@
 <html>
 <head>
-<title>我的个人网站</title>
+<title>My personal website </title>
 </head>
 <body bgcolor="pink" text="black">
 <center>
 <b>
 <h1>
-这是我的第一个个人网页<br>
+This is my first personal web page <br>
 </h1>
 </b>
-你好，我叫陈怡珂<br>
-我来自中国矿业大学，机电工程学院<br>
-我的专业是机械工程<p>
+Hello, my name is Chen Yike<br>
+I come from the school of mechanical and electrical engineering, China University of mining and technology <br>
+My major is mechanical engineering<p>
 <i>
 <b>
 <h1>
-欢迎来到我的网站！
+Welcome to my website!
 </h1>
 </b>
 </i>
 </center>
 <a href="p.html">
-<input type=button value="个人介绍" >
+<input type=button value="Personal introduction" >
 </a>
 <p>
 <a href="k.html">
-<input type=button value="校园美景" >
+<input type=button value="Campus beauty" >
 </a>
 <p>
 <a href="a.html">
-<input type=button value="校园美食" >
+<input type=button value="Campus food" >
 </a>
 <p>
 <a href="b.html">
-<input type=button value="云龙湖" >
+<input type=button value="Yunlong Lake" >
 </a>
 </body>
 </html>
