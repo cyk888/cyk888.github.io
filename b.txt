@@ -1,0 +1,48 @@
+<html>
+<head>
+<title>校园美食</title>
+</head>
+<body bgcolor="PeachPuff" text="black">
+<b>
+<a href="n.html">
+<input type=button value="返回" >
+</a>
+<p>
+<b>
+<h1>
+云龙湖介绍
+</h1>
+<i>
+云龙湖位于江苏省徐州城区西南部，是徐州云龙湖风景区主要景点， 原名"石狗湖" ，最迟形成于北宋。<br>云龙湖东靠云龙山，西依韩山、天齐山。南偎泉山、珠山。三面环山，一面临城。
+云龙湖原水面5.8平方公里，陆地5.6平方公里。<br>
+以湖中路为界，东湖周长约8.1公里，西湖长约7公里，全湖周长约12公里。<br>
+若包括上小南湖景区(总面积1.661平方公里，其中水域面积0.962平方公里)，云龙湖水面面积已达到6.76平方公里，陆地面积6.3平方公里。
+云龙湖是徐州最优秀的自然景观，也是徐州的标志性景点之一。<br>
+2016年8月被授予国家AAAAA级景区。
+</i>
+<p>
+<center>
+<img src="\Users\86151\Desktop\cc.jpg"  alt="云龙湖夜景" /width=" 500" height="500">
+</center>
+<br>
+<center>
+<i>
+<h1>
+云龙湖夜景
+</h1>
+</i>
+</center>
+<p>
+<center>
+<img src="\Users\86151\Desktop\348306261491293584.jpg"  alt="云龙湖公园" /width=" 500" height="500">
+</center>
+<br>
+<center>
+<i>
+<h1>
+云龙湖公园
+</h1>
+</i>
+</center>
+</body>
+</html>

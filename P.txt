@@ -1,0 +1,32 @@
+
+<html>
+<head>
+<title>个人介绍</title>
+</head>
+<body bgcolor="skyblue" text="black">
+<b>
+<h1>
+个人信息<p>
+</h1>
+<center>
+<h2>
+年龄：19<br>
+身高：165<br>
+性别：女<p>
+</h2>
+</center>
+<h1>
+爱好<p>
+</h1>
+<center>
+<h2>
+篮球<br>
+写作<br>
+制造<p>
+</h2>
+</center>
+<a href="n.html">
+<input type=button value="返回" >
+</a>
+</body>
+</html>
